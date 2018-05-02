@@ -1,0 +1,3 @@
+Total word count: 65
+Unique words: 46
+Sentences:6

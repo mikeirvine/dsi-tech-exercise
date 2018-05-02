@@ -1,0 +1,1 @@
+This is the file of interest. Count the total words, the number of unique words and the number of sentences! The brown dog barked at the green dog. The black cat walked under a ladder, which is bad luck for the brown dog. The Chicago White Sox will win the World Series in the next few years. I like to go skiing in the winter!
